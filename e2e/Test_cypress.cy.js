@@ -54,7 +54,7 @@ describe('My First Test', () => {
     
       cy.get(':nth-child(6) > .nav-link').click()
       cy.get('.col-md-9 > .mb-0').contains('Contact')
-      //comment
+      //comment2
 
     })
 
